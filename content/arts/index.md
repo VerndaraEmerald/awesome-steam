@@ -20,6 +20,9 @@
 
 ## AP and College Courses
 
+### AP History FRQs
+- [Compiled Complexity Research](https://docs.google.com/document/d/1VSVGwjtklDhbp7ynDAb4xGKQ6XQq5Pd1c9tNsqXU2V4/edit) - Historiographical context for the Complexity point, plus analyses of Complexity, both the point's options and the  by an AP History student (emphasis: not a teacher).
+
 ### AP or College US History
 - [Heimler's History](https://www.youtube.com/@heimlershistory) - AP US history content review and practice videos.
 
